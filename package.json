@@ -1,0 +1,19 @@
+{
+  "name": "rippleblitz",
+  "version": "1.0.0",
+  "description": "A collaborative art peice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BevisHalperry/rippleblitz.git"
+  },
+  "author": "Bevis Halsey-Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BevisHalperry/rippleblitz/issues"
+  },
+  "homepage": "https://github.com/BevisHalperry/rippleblitz#readme"
+}
